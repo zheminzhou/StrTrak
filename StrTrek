@@ -1,0 +1,51 @@
+#! /usr/bin/env python
+import strBase, strPhylo, strProfile
+import click
+
+
+@click.group()
+def cli() :
+    pass
+
+
+@cli.command()
+@click.option('-q', '--query', help='fastq file [specify multiple times for multiple fastq files]', required=True, multiple=True)
+@click.option('-d', '--dbname', help='name of the USCG database [required]', required=True)
+@click.option('-o', '--output', help='prefix of the output. [required]', required=True)
+@click.option('-t', '--num_threads', help='number of threads [Default: 16]', default=16, type=int)
+@click.option('-m', '--max_dist', help='maximum distance of alignment [Default: 0.08]', default=0.08, type=float)
+@click.option('--min_depth', help='minimum number of coverage to call a base. [Default: 3]', default=3, type=int)
+@click.option('--min_consensus', help='minimum proportion of consensus base to call [Default: 0.8]', default=0.8, type=float)
+def profile(query, dbname, output, max_dist, num_threads, min_depth, min_consensus) :
+    strProfile.strProfile(query, dbname, output, max_dist, num_threads, min_depth, min_consensus)
+
+
+@cli.command()
+@click.option('-i', '--fna_list', help='comma-delimited list of the included fasta files in a format of "file_name,accession,species".', required=True)
+@click.option('-d', '--min_dist', help='minimum distance between representatives. [default: 0.01]', default=0.01, type=float)
+@click.option('-c', '--min_cov', help='minimum presences of genes and genomes. [default: 0.75]', default=0.75, type=float)
+@click.option('-p', '--prefix', help='prefix for the output [required].', required=True)
+@click.option('-t', '--threads', help='number of threads to use [Default: 20]', type=int, default=20)
+def dbase(fna_list, min_dist, min_cov, prefix, threads) :
+    strBase.strBase(fna_list, min_dist, min_cov, prefix, threads)
+
+
+@cli.command()
+@click.argument('uscgs', nargs=-1)
+@click.option('-d', '--dbname', help='absolute path of the database. [required]', required=True)
+@click.option('-r', '--ref_acc', help='accession in the database to be used as reference. [required]', required=True)
+@click.option('--min_identity', help='minumum identity of a sequence comparing to ref_acc. default: 0.94 [0. - 1.]', default=0.94, type=float)
+@click.option('--min_presence', help='minumum coverages of genes for a strain to be evaluated. [default: 0.2]', default=0.2, type=float)
+@click.option('--risky', help='use low depth sites for tree. default: False', default=False, is_flag=True)
+@click.option('-N', '--no_db', help='do not include genomes in the database', default=False, is_flag=True)
+@click.option('-g', '--genome_list', help='additional genomes to be included in the analysis', default='')
+@click.option('-j', '--json_list', help='list of uscgs as a file [default: None]', default='')
+@click.option('-o', '--output', help='prefix of the outputs.', required=True)
+@click.option('-n', '--n_proc', help='number of processes [default: 8]', default=8, type=int)
+def phylo(uscgs, dbname, ref_acc, min_identity, min_presence, no_db, genome_list, json_list, output, n_proc, risky) :
+    strPhylo.strPhylo(uscgs, dbname, ref_acc, min_identity, min_presence, no_db, genome_list, json_list, output, n_proc, risky)
+
+
+
+if __name__ == '__main__' :
+    cli()
