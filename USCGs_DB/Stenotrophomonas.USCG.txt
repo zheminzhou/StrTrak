@@ -1,0 +1,310 @@
+/titan/databases/ncbi2/sketches/GCF_001431415/GCF_001431415.fna.gz,GCF_001431415,Stenotrophomonas humi
+/titan/databases/ncbi2/sketches/GCF_001431465/GCF_001431465.fna.gz,GCF_001431465,Stenotrophomonas terrae
+/titan/databases/ncbi2/sketches/GCF_001431485/GCF_001431485.fna.gz,GCF_001431485,Stenotrophomonas ginsengisoli
+/titan/databases/ncbi2/sketches/GCF_001431505/GCF_001431505.fna.gz,GCF_001431505,Stenotrophomonas daejeonensis
+/titan/databases/ncbi2/sketches/GCF_001431525/GCF_001431525.fna.gz,GCF_001431525,Stenotrophomonas koreensis
+/titan/databases/ncbi2/sketches/GCF_001431535/GCF_001431535.fna.gz,GCF_001431535,Stenotrophomonas chelatiphaga
+/titan/databases/ncbi2/sketches/GCF_001431585/GCF_001431585.fna.gz,GCF_001431585,Stenotrophomonas pictorum
+/titan/databases/ncbi2/sketches/GCF_003244875/GCF_003244875.fna.gz,GCF_003244875,Stenotrophomonas sepilia
+/titan/databases/ncbi2/sketches/GCF_008710035/GCF_008710035.fna.gz,GCF_008710035,Stenotrophomonas cyclobalanopsidis
+/titan/databases/ncbi2/sketches/GCF_013185915/GCF_013185915.fna.gz,GCF_013185915,Stenotrophomonas bentonitica
+/titan/databases/ncbi2/sketches/GCF_014117215/GCF_014117215.fna.gz,GCF_014117215,Stenotrophomonas tumulicola
+/titan/databases/ncbi2/sketches/GCF_900186865/GCF_900186865.fna.gz,GCF_900186865,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001431565/GCF_001431565.fna.gz,GCF_001431565,Stenotrophomonas pavanii
+/titan/databases/ncbi2/sketches/GCF_001431595/GCF_001431595.fna.gz,GCF_001431595,Stenotrophomonas acidaminiphila
+/titan/databases/ncbi2/sketches/GCF_001431645/GCF_001431645.fna.gz,GCF_001431645,Stenotrophomonas panacihumi
+/titan/databases/ncbi2/sketches/GCF_002750975/GCF_002750975.fna.gz,GCF_002750975,Stenotrophomonas indicatrix
+/titan/databases/ncbi2/sketches/GCF_002803515/GCF_002803515.fna.gz,GCF_002803515,Stenotrophomonas lactitubi
+/titan/databases/ncbi2/sketches/GCF_900101175/GCF_900101175.fna.gz,GCF_900101175,Stenotrophomonas pavanii
+/titan/databases/ncbi2/sketches/GCF_001431665/GCF_001431665.fna.gz,GCF_001431665,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001431675/GCF_001431675.fna.gz,GCF_001431675,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_004551575/GCF_004551575.fna.gz,GCF_004551575,Stenotrophomonas indicatrix
+/titan/databases/ncbi2/sketches/GCF_014109845/GCF_014109845.fna.gz,GCF_014109845,Stenotrophomonas acidaminiphila
+/titan/databases/ncbi2/sketches/GCF_019704495/GCF_019704495.fna.gz,GCF_019704495,Stenotrophomonas pavanii
+/titan/databases/ncbi2/sketches/GCF_900475405/GCF_900475405.fna.gz,GCF_900475405,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_900188015/GCF_900188015.fna.gz,GCF_900188015,Stenotrophomonas lactitubi
+/titan/databases/ncbi2/sketches/GCF_000020665/GCF_000020665.fna.gz,GCF_000020665,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_000072485/GCF_000072485.fna.gz,GCF_000072485,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_000223885/GCF_000223885.fna.gz,GCF_000223885,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_000284595/GCF_000284595.fna.gz,GCF_000284595,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001274595/GCF_001274595.fna.gz,GCF_001274595,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001274655/GCF_001274655.fna.gz,GCF_001274655,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001314305/GCF_001314305.fna.gz,GCF_001314305,Stenotrophomonas acidaminiphila
+/titan/databases/ncbi2/sketches/GCF_002025605/GCF_002025605.fna.gz,GCF_002025605,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002138415/GCF_002138415.fna.gz,GCF_002138415,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002189545/GCF_002189545.fna.gz,GCF_002189545,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002192255/GCF_002192255.fna.gz,GCF_002192255,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002208885/GCF_002208885.fna.gz,GCF_002208885,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002847385/GCF_002847385.fna.gz,GCF_002847385,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002951115/GCF_002951115.fna.gz,GCF_002951115,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002966815/GCF_002966815.fna.gz,GCF_002966815,Stenotrophomonas indicatrix
+/titan/databases/ncbi2/sketches/GCF_003006435/GCF_003006435.fna.gz,GCF_003006435,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003030985/GCF_003030985.fna.gz,GCF_003030985,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003205835/GCF_003205835.fna.gz,GCF_003205835,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003428825/GCF_003428825.fna.gz,GCF_003428825,Stenotrophomonas indicatrix
+/titan/databases/ncbi2/sketches/GCF_003812985/GCF_003812985.fna.gz,GCF_003812985,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_004346925/GCF_004346925.fna.gz,GCF_004346925,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_004795795/GCF_004795795.fna.gz,GCF_004795795,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_006974125/GCF_006974125.fna.gz,GCF_006974125,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_007833655/GCF_007833655.fna.gz,GCF_007833655,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_008693985/GCF_008693985.fna.gz,GCF_008693985,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_009618035/GCF_009618035.fna.gz,GCF_009618035,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_009676405/GCF_009676405.fna.gz,GCF_009676405,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_009676425/GCF_009676425.fna.gz,GCF_009676425,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_009676445/GCF_009676445.fna.gz,GCF_009676445,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_009676465/GCF_009676465.fna.gz,GCF_009676465,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_009676505/GCF_009676505.fna.gz,GCF_009676505,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_009676525/GCF_009676525.fna.gz,GCF_009676525,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_009676545/GCF_009676545.fna.gz,GCF_009676545,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_009676565/GCF_009676565.fna.gz,GCF_009676565,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_009676585/GCF_009676585.fna.gz,GCF_009676585,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_009676605/GCF_009676605.fna.gz,GCF_009676605,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_009857175/GCF_009857175.fna.gz,GCF_009857175,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_011386925/GCF_011386925.fna.gz,GCF_011386925,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_012647025/GCF_012647025.fna.gz,GCF_012647025,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_012971765/GCF_012971765.fna.gz,GCF_012971765,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_014076535/GCF_014076535.fna.gz,GCF_014076535,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_014083965/GCF_014083965.fna.gz,GCF_014083965,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_014156975/GCF_014156975.fna.gz,GCF_014156975,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_016659185/GCF_016659185.fna.gz,GCF_016659185,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_019048905/GCF_019048905.fna.gz,GCF_019048905,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_019285675/GCF_019285675.fna.gz,GCF_019285675,Stenotrophomonas indicatrix
+/titan/databases/ncbi2/sketches/GCF_019793815/GCF_019793815.fna.gz,GCF_019793815,Stenotrophomonas indicatrix
+/titan/databases/ncbi2/sketches/GCF_020080085/GCF_020080085.fna.gz,GCF_020080085,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_020132085/GCF_020132085.fna.gz,GCF_020132085,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003086775/GCF_003086775.fna.gz,GCF_003086775,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003086795/GCF_003086795.fna.gz,GCF_003086795,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003086915/GCF_003086915.fna.gz,GCF_003086915,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003586545/GCF_003586545.fna.gz,GCF_003586545,Stenotrophomonas sepilia
+/titan/databases/ncbi2/sketches/GCF_004346945/GCF_004346945.fna.gz,GCF_004346945,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_006228405/GCF_006228405.fna.gz,GCF_006228405,Stenotrophomonas sepilia
+/titan/databases/ncbi2/sketches/GCF_006970445/GCF_006970445.fna.gz,GCF_006970445,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_014236005/GCF_014236005.fna.gz,GCF_014236005,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_014236025/GCF_014236025.fna.gz,GCF_014236025,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_016082115/GCF_016082115.fna.gz,GCF_016082115,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_000158575/GCF_000158575.fna.gz,GCF_000158575,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_000237025/GCF_000237025.fna.gz,GCF_000237025,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_000287935/GCF_000287935.fna.gz,GCF_000287935,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_000346445/GCF_000346445.fna.gz,GCF_000346445,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_000455685/GCF_000455685.fna.gz,GCF_000455685,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_000611735/GCF_000611735.fna.gz,GCF_000611735,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_000613205/GCF_000613205.fna.gz,GCF_000613205,Stenotrophomonas indicatrix
+/titan/databases/ncbi2/sketches/GCF_000632045/GCF_000632045.fna.gz,GCF_000632045,Stenotrophomonas indicatrix
+/titan/databases/ncbi2/sketches/GCF_000758465/GCF_000758465.fna.gz,GCF_000758465,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_000788095/GCF_000788095.fna.gz,GCF_000788095,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_000877275/GCF_000877275.fna.gz,GCF_000877275,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001051925/GCF_001051925.fna.gz,GCF_001051925,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001068765/GCF_001068765.fna.gz,GCF_001068765,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001068915/GCF_001068915.fna.gz,GCF_001068915,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001069005/GCF_001069005.fna.gz,GCF_001069005,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001069295/GCF_001069295.fna.gz,GCF_001069295,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001069645/GCF_001069645.fna.gz,GCF_001069645,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001070785/GCF_001070785.fna.gz,GCF_001070785,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001070865/GCF_001070865.fna.gz,GCF_001070865,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001071045/GCF_001071045.fna.gz,GCF_001071045,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001071175/GCF_001071175.fna.gz,GCF_001071175,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001071655/GCF_001071655.fna.gz,GCF_001071655,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001071815/GCF_001071815.fna.gz,GCF_001071815,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001072195/GCF_001072195.fna.gz,GCF_001072195,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001073225/GCF_001073225.fna.gz,GCF_001073225,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001074685/GCF_001074685.fna.gz,GCF_001074685,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001075475/GCF_001075475.fna.gz,GCF_001075475,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001275095/GCF_001275095.fna.gz,GCF_001275095,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001276185/GCF_001276185.fna.gz,GCF_001276185,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001276305/GCF_001276305.fna.gz,GCF_001276305,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001276345/GCF_001276345.fna.gz,GCF_001276345,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001276355/GCF_001276355.fna.gz,GCF_001276355,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001276385/GCF_001276385.fna.gz,GCF_001276385,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001286925/GCF_001286925.fna.gz,GCF_001286925,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001297005/GCF_001297005.fna.gz,GCF_001297005,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001422025/GCF_001422025.fna.gz,GCF_001422025,Stenotrophomonas nitritireducens
+/titan/databases/ncbi2/sketches/GCF_001499695/GCF_001499695.fna.gz,GCF_001499695,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001499715/GCF_001499715.fna.gz,GCF_001499715,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001499755/GCF_001499755.fna.gz,GCF_001499755,Stenotrophomonas indicatrix
+/titan/databases/ncbi2/sketches/GCF_001580555/GCF_001580555.fna.gz,GCF_001580555,Stenotrophomonas sepilia
+/titan/databases/ncbi2/sketches/GCF_001595975/GCF_001595975.fna.gz,GCF_001595975,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001619675/GCF_001619675.fna.gz,GCF_001619675,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001651505/GCF_001651505.fna.gz,GCF_001651505,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001676295/GCF_001676295.fna.gz,GCF_001676295,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001676375/GCF_001676375.fna.gz,GCF_001676375,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001676385/GCF_001676385.fna.gz,GCF_001676385,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001676445/GCF_001676445.fna.gz,GCF_001676445,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001693455/GCF_001693455.fna.gz,GCF_001693455,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001858265/GCF_001858265.fna.gz,GCF_001858265,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001866065/GCF_001866065.fna.gz,GCF_001866065,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001939825/GCF_001939825.fna.gz,GCF_001939825,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001974685/GCF_001974685.fna.gz,GCF_001974685,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002205295/GCF_002205295.fna.gz,GCF_002205295,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002277735/GCF_002277735.fna.gz,GCF_002277735,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002738635/GCF_002738635.fna.gz,GCF_002738635,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002738905/GCF_002738905.fna.gz,GCF_002738905,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002739255/GCF_002739255.fna.gz,GCF_002739255,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002739315/GCF_002739315.fna.gz,GCF_002739315,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002739455/GCF_002739455.fna.gz,GCF_002739455,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002739525/GCF_002739525.fna.gz,GCF_002739525,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002739585/GCF_002739585.fna.gz,GCF_002739585,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002739625/GCF_002739625.fna.gz,GCF_002739625,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002739665/GCF_002739665.fna.gz,GCF_002739665,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002740185/GCF_002740185.fna.gz,GCF_002740185,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002750995/GCF_002750995.fna.gz,GCF_002750995,Stenotrophomonas indicatrix
+/titan/databases/ncbi2/sketches/GCF_002798885/GCF_002798885.fna.gz,GCF_002798885,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002799065/GCF_002799065.fna.gz,GCF_002799065,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002799155/GCF_002799155.fna.gz,GCF_002799155,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002799225/GCF_002799225.fna.gz,GCF_002799225,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002799235/GCF_002799235.fna.gz,GCF_002799235,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002799245/GCF_002799245.fna.gz,GCF_002799245,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003015035/GCF_003015035.fna.gz,GCF_003015035,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003028475/GCF_003028475.fna.gz,GCF_003028475,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003060985/GCF_003060985.fna.gz,GCF_003060985,Stenotrophomonas lactitubi
+/titan/databases/ncbi2/sketches/GCF_003105135/GCF_003105135.fna.gz,GCF_003105135,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003143835/GCF_003143835.fna.gz,GCF_003143835,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003172845/GCF_003172845.fna.gz,GCF_003172845,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003244375/GCF_003244375.fna.gz,GCF_003244375,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003244415/GCF_003244415.fna.gz,GCF_003244415,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003244425/GCF_003244425.fna.gz,GCF_003244425,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003244435/GCF_003244435.fna.gz,GCF_003244435,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003244595/GCF_003244595.fna.gz,GCF_003244595,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003244635/GCF_003244635.fna.gz,GCF_003244635,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003244645/GCF_003244645.fna.gz,GCF_003244645,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003244715/GCF_003244715.fna.gz,GCF_003244715,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003244735/GCF_003244735.fna.gz,GCF_003244735,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003244775/GCF_003244775.fna.gz,GCF_003244775,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003244795/GCF_003244795.fna.gz,GCF_003244795,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003244855/GCF_003244855.fna.gz,GCF_003244855,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003550055/GCF_003550055.fna.gz,GCF_003550055,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003935325/GCF_003935325.fna.gz,GCF_003935325,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003935615/GCF_003935615.fna.gz,GCF_003935615,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003970865/GCF_003970865.fna.gz,GCF_003970865,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003999895/GCF_003999895.fna.gz,GCF_003999895,Stenotrophomonas indicatrix
+/titan/databases/ncbi2/sketches/GCF_004118345/GCF_004118345.fna.gz,GCF_004118345,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_004348785/GCF_004348785.fna.gz,GCF_004348785,Stenotrophomonas indicatrix
+/titan/databases/ncbi2/sketches/GCF_004365115/GCF_004365115.fna.gz,GCF_004365115,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_004522355/GCF_004522355.fna.gz,GCF_004522355,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_004684085/GCF_004684085.fna.gz,GCF_004684085,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_004793415/GCF_004793415.fna.gz,GCF_004793415,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_004920755/GCF_004920755.fna.gz,GCF_004920755,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_005233605/GCF_005233605.fna.gz,GCF_005233605,Stenotrophomonas rhizophila
+/titan/databases/ncbi2/sketches/GCF_006120765/GCF_006120765.fna.gz,GCF_006120765,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_006120775/GCF_006120775.fna.gz,GCF_006120775,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_006505885/GCF_006505885.fna.gz,GCF_006505885,Stenotrophomonas rhizophila
+/titan/databases/ncbi2/sketches/GCF_008326785/GCF_008326785.fna.gz,GCF_008326785,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_009659995/GCF_009659995.fna.gz,GCF_009659995,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010587285/GCF_010587285.fna.gz,GCF_010587285,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010587505/GCF_010587505.fna.gz,GCF_010587505,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010587625/GCF_010587625.fna.gz,GCF_010587625,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010587795/GCF_010587795.fna.gz,GCF_010587795,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010604305/GCF_010604305.fna.gz,GCF_010604305,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010604335/GCF_010604335.fna.gz,GCF_010604335,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010604485/GCF_010604485.fna.gz,GCF_010604485,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010604525/GCF_010604525.fna.gz,GCF_010604525,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010604695/GCF_010604695.fna.gz,GCF_010604695,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010604725/GCF_010604725.fna.gz,GCF_010604725,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010605095/GCF_010605095.fna.gz,GCF_010605095,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010605125/GCF_010605125.fna.gz,GCF_010605125,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010605135/GCF_010605135.fna.gz,GCF_010605135,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010607605/GCF_010607605.fna.gz,GCF_010607605,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010607735/GCF_010607735.fna.gz,GCF_010607735,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010608115/GCF_010608115.fna.gz,GCF_010608115,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010608305/GCF_010608305.fna.gz,GCF_010608305,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010608915/GCF_010608915.fna.gz,GCF_010608915,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010609185/GCF_010609185.fna.gz,GCF_010609185,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010609205/GCF_010609205.fna.gz,GCF_010609205,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010609345/GCF_010609345.fna.gz,GCF_010609345,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_010612525/GCF_010612525.fna.gz,GCF_010612525,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_011043715/GCF_011043715.fna.gz,GCF_011043715,Stenotrophomonas pavanii
+/titan/databases/ncbi2/sketches/GCF_013184035/GCF_013184035.fna.gz,GCF_013184035,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_013184065/GCF_013184065.fna.gz,GCF_013184065,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_013184165/GCF_013184165.fna.gz,GCF_013184165,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_013184175/GCF_013184175.fna.gz,GCF_013184175,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_013416715/GCF_013416715.fna.gz,GCF_013416715,Stenotrophomonas lactitubi
+/titan/databases/ncbi2/sketches/GCF_013463465/GCF_013463465.fna.gz,GCF_013463465,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_013463485/GCF_013463485.fna.gz,GCF_013463485,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_013463565/GCF_013463565.fna.gz,GCF_013463565,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_013463855/GCF_013463855.fna.gz,GCF_013463855,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_013463875/GCF_013463875.fna.gz,GCF_013463875,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_013463895/GCF_013463895.fna.gz,GCF_013463895,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_013464065/GCF_013464065.fna.gz,GCF_013464065,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_013464455/GCF_013464455.fna.gz,GCF_013464455,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_013464485/GCF_013464485.fna.gz,GCF_013464485,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_013464495/GCF_013464495.fna.gz,GCF_013464495,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_013464525/GCF_013464525.fna.gz,GCF_013464525,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_014145815/GCF_014145815.fna.gz,GCF_014145815,Stenotrophomonas koreensis
+/titan/databases/ncbi2/sketches/GCF_014235265/GCF_014235265.fna.gz,GCF_014235265,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_014581695/GCF_014581695.fna.gz,GCF_014581695,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_014581725/GCF_014581725.fna.gz,GCF_014581725,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_014763005/GCF_014763005.fna.gz,GCF_014763005,Stenotrophomonas lactitubi
+/titan/databases/ncbi2/sketches/GCF_016624625/GCF_016624625.fna.gz,GCF_016624625,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_016624665/GCF_016624665.fna.gz,GCF_016624665,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_016735555/GCF_016735555.fna.gz,GCF_016735555,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_016921095/GCF_016921095.fna.gz,GCF_016921095,Stenotrophomonas lactitubi
+/titan/databases/ncbi2/sketches/GCF_017287455/GCF_017287455.fna.gz,GCF_017287455,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_017287815/GCF_017287815.fna.gz,GCF_017287815,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_017315435/GCF_017315435.fna.gz,GCF_017315435,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_017565445/GCF_017565445.fna.gz,GCF_017565445,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_017565455/GCF_017565455.fna.gz,GCF_017565455,Stenotrophomonas indicatrix
+/titan/databases/ncbi2/sketches/GCF_018320795/GCF_018320795.fna.gz,GCF_018320795,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_019807975/GCF_019807975.fna.gz,GCF_019807975,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_019969775/GCF_019969775.fna.gz,GCF_019969775,Stenotrophomonas indicatrix
+/titan/databases/ncbi2/sketches/GCF_019969795/GCF_019969795.fna.gz,GCF_019969795,Stenotrophomonas indicatrix
+/titan/databases/ncbi2/sketches/GCF_900111475/GCF_900111475.fna.gz,GCF_900111475,Stenotrophomonas indicatrix
+/titan/databases/ncbi2/sketches/GCF_900116025/GCF_900116025.fna.gz,GCF_900116025,Stenotrophomonas indicatrix
+/titan/databases/ncbi2/sketches/GCF_900187955/GCF_900187955.fna.gz,GCF_900187955,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_900215385/GCF_900215385.fna.gz,GCF_900215385,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_901482485/GCF_901482485.fna.gz,GCF_901482485,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_903970895/GCF_903970895.fna.gz,GCF_903970895,Stenotrophomonas pavanii
+/titan/databases/ncbi2/sketches/GCF_001562215/GCF_001562215.fna.gz,GCF_001562215,Stenotrophomonas sp. KCTC 12332
+/titan/databases/ncbi2/sketches/GCF_001704155/GCF_001704155.fna.gz,GCF_001704155,Stenotrophomonas rhizophila
+/titan/databases/ncbi2/sketches/GCF_001806305/GCF_001806305.fna.gz,GCF_001806305,Stenotrophomonas sp. LM091
+/titan/databases/ncbi2/sketches/GCF_002951995/GCF_002951995.fna.gz,GCF_002951995,Stenotrophomonas acidaminiphila
+/titan/databases/ncbi2/sketches/GCF_009832905/GCF_009832905.fna.gz,GCF_009832905,Stenotrophomonas sp. 364
+/titan/databases/ncbi2/sketches/GCF_011604605/GCF_011604605.fna.gz,GCF_011604605,Stenotrophomonas rhizophila
+/titan/databases/ncbi2/sketches/GCF_013364355/GCF_013364355.fna.gz,GCF_013364355,Stenotrophomonas sp. NA06056
+/titan/databases/ncbi2/sketches/GCF_014621775/GCF_014621775.fna.gz,GCF_014621775,Stenotrophomonas sp. 169
+/titan/databases/ncbi2/sketches/GCF_003086675/GCF_003086675.fna.gz,GCF_003086675,Stenotrophomonas sp. ZAC14D2_NAIMI4_7
+/titan/databases/ncbi2/sketches/GCF_003086695/GCF_003086695.fna.gz,GCF_003086695,Stenotrophomonas sp. SAU14A_NAIMI4_8
+/titan/databases/ncbi2/sketches/GCF_003086815/GCF_003086815.fna.gz,GCF_003086815,Stenotrophomonas sp. YAU14D1_LEIMI4_1
+/titan/databases/ncbi2/sketches/GCF_003086875/GCF_003086875.fna.gz,GCF_003086875,Stenotrophomonas sp. ZAC14D2_NAIMI4_6
+/titan/databases/ncbi2/sketches/GCF_003086895/GCF_003086895.fna.gz,GCF_003086895,Stenotrophomonas sp. ESTM1D_MKCIP4_1
+/titan/databases/ncbi2/sketches/GCF_000308335/GCF_000308335.fna.gz,GCF_000308335,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_000834105/GCF_000834105.fna.gz,GCF_000834105,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_000972335/GCF_000972335.fna.gz,GCF_000972335,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_001807865/GCF_001807865.fna.gz,GCF_001807865,Stenotrophomonas sp. HMSC10F06
+/titan/databases/ncbi2/sketches/GCF_002205165/GCF_002205165.fna.gz,GCF_002205165,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002276905/GCF_002276905.fna.gz,GCF_002276905,Stenotrophomonas rhizophila
+/titan/databases/ncbi2/sketches/GCF_002836635/GCF_002836635.fna.gz,GCF_002836635,Stenotrophomonas sp. Bg11-02
+/titan/databases/ncbi2/sketches/GCF_002887735/GCF_002887735.fna.gz,GCF_002887735,Stenotrophomonas bentonitica
+/titan/databases/ncbi2/sketches/GCF_002893095/GCF_002893095.fna.gz,GCF_002893095,Stenotrophomonas sp. VV52
+/titan/databases/ncbi2/sketches/GCF_003061285/GCF_003061285.fna.gz,GCF_003061285,Stenotrophomonas sp. HMWF003
+/titan/databases/ncbi2/sketches/GCF_003244615/GCF_003244615.fna.gz,GCF_003244615,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_003651185/GCF_003651185.fna.gz,GCF_003651185,Stenotrophomonas rhizophila
+/titan/databases/ncbi2/sketches/GCF_003751305/GCF_003751305.fna.gz,GCF_003751305,Stenotrophomonas rhizophila
+/titan/databases/ncbi2/sketches/GCF_003935715/GCF_003935715.fna.gz,GCF_003935715,Stenotrophomonas sp. 278
+/titan/databases/ncbi2/sketches/GCF_004348115/GCF_004348115.fna.gz,GCF_004348115,Stenotrophomonas sp. ATCM1_4
+/titan/databases/ncbi2/sketches/GCF_007667275/GCF_007667275.fna.gz,GCF_007667275,Stenotrophomonas rhizophila
+/titan/databases/ncbi2/sketches/GCF_009184355/GCF_009184355.fna.gz,GCF_009184355,Stenotrophomonas rhizophila
+/titan/databases/ncbi2/sketches/GCF_009496535/GCF_009496535.fna.gz,GCF_009496535,Stenotrophomonas sp. MYb238
+/titan/databases/ncbi2/sketches/GCF_009996725/GCF_009996725.fna.gz,GCF_009996725,Stenotrophomonas acidaminiphila
+/titan/databases/ncbi2/sketches/GCF_013387485/GCF_013387485.fna.gz,GCF_013387485,Stenotrophomonas sp. SAM-B
+/titan/databases/ncbi2/sketches/GCF_013409105/GCF_013409105.fna.gz,GCF_013409105,Stenotrophomonas sp. JAI102
+/titan/databases/ncbi2/sketches/GCF_014145805/GCF_014145805.fna.gz,GCF_014145805,Stenotrophomonas sp. K32
+/titan/databases/ncbi2/sketches/GCF_014836545/GCF_014836545.fna.gz,GCF_014836545,Stenotrophomonas sp. Sa5BUN4
+/titan/databases/ncbi2/sketches/GCF_014841935/GCF_014841935.fna.gz,GCF_014841935,Stenotrophomonas sp. CFBP 13725
+/titan/databases/ncbi2/sketches/GCF_014841975/GCF_014841975.fna.gz,GCF_014841975,Stenotrophomonas sp. CFBP 13724
+/titan/databases/ncbi2/sketches/GCF_014842145/GCF_014842145.fna.gz,GCF_014842145,Stenotrophomonas sp. CFBP 13718
+/titan/databases/ncbi2/sketches/GCF_014852135/GCF_014852135.fna.gz,GCF_014852135,Stenotrophomonas sp. STM01
+/titan/databases/ncbi2/sketches/GCF_014947095/GCF_014947095.fna.gz,GCF_014947095,Stenotrophomonas sp. B2
+/titan/databases/ncbi2/sketches/GCF_016517605/GCF_016517605.fna.gz,GCF_016517605,Stenotrophomonas sp. S48
+/titan/databases/ncbi2/sketches/GCF_017893555/GCF_017893555.fna.gz,GCF_017893555,Stenotrophomonas rhizophila
+/titan/databases/ncbi2/sketches/GCF_018612915/GCF_018612915.fna.gz,GCF_018612915,Stenotrophomonas sp. ISL-67
+/titan/databases/ncbi2/sketches/GCF_019091045/GCF_019091045.fna.gz,GCF_019091045,Stenotrophomonas sp. GbtcB23
+/titan/databases/ncbi2/sketches/GCF_900095765/GCF_900095765.fna.gz,GCF_900095765,Stenotrophomonas rhizophila
+/titan/databases/ncbi2/sketches/GCF_916618915/GCF_916618915.fna.gz,GCF_916618915,Stenotrophomonas sp. Marseille-Q4652
+/titan/databases/ncbi2/sketches/GCF_000661955/GCF_000661955.fna.gz,GCF_000661955,Stenotrophomonas rhizophila
+/titan/databases/ncbi2/sketches/GCF_009676385/GCF_009676385.fna.gz,GCF_009676385,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_011067225/GCF_011067225.fna.gz,GCF_011067225,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_000543365/GCF_000543365.fna.gz,GCF_000543365,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_002750935/GCF_002750935.fna.gz,GCF_002750935,Stenotrophomonas lactitubi
+/titan/databases/ncbi2/sketches/GCF_002798995/GCF_002798995.fna.gz,GCF_002798995,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_006385415/GCF_006385415.fna.gz,GCF_006385415,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_006385505/GCF_006385505.fna.gz,GCF_006385505,Stenotrophomonas maltophilia
+/titan/databases/ncbi2/sketches/GCF_900143175/GCF_900143175.fna.gz,GCF_900143175,Stenotrophomonas indicatrix
