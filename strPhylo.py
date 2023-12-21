@@ -162,6 +162,8 @@ def readJson(param) :
         tag = os.path.basename(uscg).rsplit('.', 1)[0]
         data = json.load(open(uscg))['OTU']
         for d in data :
+            if not d[6] :
+                continue
             for n, s in d[6].items() :
                 if risky :
                     s = s.upper()
