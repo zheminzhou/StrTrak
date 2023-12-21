@@ -16,7 +16,7 @@ def cli() :
 @click.option('-m', '--max_dist', help='maximum distance of alignment [Default: 0.08]', default=0.08, type=float)
 @click.option('--min_depth', help='minimum number of coverage to call a base. [Default: 3]', default=3, type=int)
 @click.option('--min_consensus', help='minimum proportion of consensus base to call [Default: 0.8]', default=0.8, type=float)
-def strProfile(query, dbname, output, max_dist, num_threads, min_depth, min_consensus) :
+def profile(query, dbname, output, max_dist, num_threads, min_depth, min_consensus) :
     strProfile.strProfile(query, dbname, output, max_dist, num_threads, min_depth, min_consensus)
 
 
@@ -26,7 +26,7 @@ def strProfile(query, dbname, output, max_dist, num_threads, min_depth, min_cons
 @click.option('-c', '--min_cov', help='minimum presences of genes and genomes. [default: 0.75]', default=0.75, type=float)
 @click.option('-p', '--prefix', help='prefix for the output [required].', required=True)
 @click.option('-t', '--threads', help='number of threads to use [Default: 20]', type=int, default=20)
-def strBase(fna_list, min_dist, min_cov, prefix, threads) :
+def base(fna_list, min_dist, min_cov, prefix, threads) :
     strBase.strBase(fna_list, min_dist, min_cov, prefix, threads)
 
 
@@ -42,7 +42,7 @@ def strBase(fna_list, min_dist, min_cov, prefix, threads) :
 @click.option('-j', '--json_list', help='list of uscgs as a file [default: None]', default='')
 @click.option('-o', '--output', help='prefix of the outputs.', required=True)
 @click.option('-n', '--n_proc', help='number of processes [default: 8]', default=8, type=int)
-def strPhylo(uscgs, dbname, ref_acc, min_identity, min_presence, no_db, genome_list, json_list, output, n_proc, risky) :
+def phylo(uscgs, dbname, ref_acc, min_identity, min_presence, no_db, genome_list, json_list, output, n_proc, risky) :
     strPhylo.strPhylo(uscgs, dbname, ref_acc, min_identity, min_presence, no_db, genome_list, json_list, output, n_proc, risky)
 
 
