@@ -10,18 +10,15 @@ except :
 
 
 
-def detranseq(d) :
-    d[0], f = d[0].rsplit('_', 1)
-    f = int(f)
-    if f <= 3 :
-        d[3], d[4] = (d[3]-1)*3+f, d[4]*3-1+f
+def detranseq(d, orf_coords) :
+    s, e = orf_coords[d[0]]
+    d[0] = d[0].rsplit('_', 1)[0]
+    
+    if s < e :
+        d[3], d[4] = s + (d[3]-1)*3, s + (d[4]*3 - 1)
         d[7] = 1
     else :
-        qlen = d[9] - (1 if f>4 else 0)
-        d[3], d[4] = qlen - d[3] + 1, qlen - d[4] + 1
-        d[3], d[4] = -(d[3]*3-1+f-3), -((d[4]-1)*3+f-3)
-        if d[4] > -1 :
-            d[4] -= 3
+        d[3], d[4] = s - (d[4]*3 - 1), s - (d[3]-1)*3
         d[7] = -1
     return d
 
@@ -66,8 +63,19 @@ def parseHits(data, c) :
     return o2
 
 def get_uscgs(query, dirname, acc) :
-    subprocess.Popen('{transeq} -frame 6 -table 4 -sequence {0} -nomethionine -outseq {1}'.format(
+    # subprocess.Popen('{transeq} -frame 6 -table 4 -sequence {0} -nomethionine -outseq {1}'.format(
+    #     query, os.path.join(dirname,'{0}.aa2'.format(acc)), **executables).split(), stderr=subprocess.PIPE).communicate()
+
+    subprocess.Popen('{getorf} -table 4 -minsize 65 -sequence {0} -nomethionine -outseq {1}'.format(
         query, os.path.join(dirname,'{0}.aa'.format(acc)), **executables).split(), stderr=subprocess.PIPE).communicate()
+
+    orf_coords = {}
+    with open(os.path.join(dirname,'{0}.aa'.format(acc)), 'rt') as fin :
+        for line in fin :
+            if line.startswith('>') :
+                n, s, e = re.findall('>(\S+) \[(\d+) - (\d+)\]', line)[0]
+                orf_coords[n] = [int(s), int(e)]
+
 
     dbname = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'uscg_profile')
     dataset = []
@@ -101,7 +109,7 @@ def get_uscgs(query, dirname, acc) :
                 p = line.strip().split()
                 d = [p[0], toMerge.get(p[3], p[3]), float(p[21]), int(p[17]), int(p[18]), \
                      int(p[15]), int(p[16]), float(p[12]), float(p[13]), int(p[2]), int(p[5])]
-                data.append(detranseq(d))
+                data.append(detranseq(d, orf_coords))
         if len(data) :
             dataset.extend(parseHits(data, cutoffs[key]))
 
@@ -245,4 +253,4 @@ def strBase(fna_list, min_dist, min_cov, prefix, threads) :
                     fout.write('{0},{1}\n'.format(acc, species))
 
 if __name__ == '__main__' :
-    strBase()
+    main()
