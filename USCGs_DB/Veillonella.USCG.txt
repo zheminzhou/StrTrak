@@ -1,0 +1,79 @@
+/titan/databases/ncbi2/sketches/GCF_013393365/GCF_013393365.fna.gz,GCF_013393365,Veillonella nakazawae
+/titan/databases/ncbi2/sketches/GCF_900187285/GCF_900187285.fna.gz,GCF_900187285,Veillonella rodentium
+/titan/databases/ncbi2/sketches/GCF_000426745/GCF_000426745.fna.gz,GCF_000426745,Veillonella montpellierensis
+/titan/databases/ncbi2/sketches/GCF_000428745/GCF_000428745.fna.gz,GCF_000428745,Veillonella magna
+/titan/databases/ncbi2/sketches/GCF_002959775/GCF_002959775.fna.gz,GCF_002959775,Veillonella rogosae
+/titan/databases/ncbi2/sketches/GCF_002959855/GCF_002959855.fna.gz,GCF_002959855,Veillonella denticariosi
+/titan/databases/ncbi2/sketches/GCF_002959895/GCF_002959895.fna.gz,GCF_002959895,Veillonella infantium
+/titan/databases/ncbi2/sketches/GCF_003992065/GCF_003992065.fna.gz,GCF_003992065,Veillonella seminalis
+/titan/databases/ncbi2/sketches/GCF_003992115/GCF_003992115.fna.gz,GCF_003992115,Veillonella ratti
+/titan/databases/ncbi2/sketches/GCF_003992125/GCF_003992125.fna.gz,GCF_003992125,Veillonella caviae
+/titan/databases/ncbi2/sketches/GCF_900460315/GCF_900460315.fna.gz,GCF_900460315,Veillonella criceti
+/titan/databases/ncbi2/sketches/GCF_000318355/GCF_000318355.fna.gz,GCF_000318355,Veillonella atypica
+/titan/databases/ncbi2/sketches/GCF_001078375/GCF_001078375.fna.gz,GCF_001078375,Veillonella tobetsuensis
+/titan/databases/ncbi2/sketches/GCF_000177435/GCF_000177435.fna.gz,GCF_000177435,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_902810435/GCF_902810435.fna.gz,GCF_902810435,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_002959935/GCF_002959935.fna.gz,GCF_002959935,Veillonella tobetsuensis
+/titan/databases/ncbi2/sketches/GCF_902375065/GCF_902375065.fna.gz,GCF_902375065,Veillonella atypica
+/titan/databases/ncbi2/sketches/GCF_002005185/GCF_002005185.fna.gz,GCF_002005185,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_002082765/GCF_002082765.fna.gz,GCF_002082765,Veillonella atypica
+/titan/databases/ncbi2/sketches/GCF_016127175/GCF_016127175.fna.gz,GCF_016127175,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_000448705/GCF_000448705.fna.gz,GCF_000448705,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_000163715/GCF_000163715.fna.gz,GCF_000163715,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_000163735/GCF_000163735.fna.gz,GCF_000163735,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_000179735/GCF_000179735.fna.gz,GCF_000179735,Veillonella atypica
+/titan/databases/ncbi2/sketches/GCF_000179755/GCF_000179755.fna.gz,GCF_000179755,Veillonella atypica
+/titan/databases/ncbi2/sketches/GCF_000183505/GCF_000183505.fna.gz,GCF_000183505,Veillonella rogosae
+/titan/databases/ncbi2/sketches/GCF_000215025/GCF_000215025.fna.gz,GCF_000215025,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_000286635/GCF_000286635.fna.gz,GCF_000286635,Veillonella atypica
+/titan/databases/ncbi2/sketches/GCF_000315505/GCF_000315505.fna.gz,GCF_000315505,Veillonella seminalis
+/titan/databases/ncbi2/sketches/GCF_000524355/GCF_000524355.fna.gz,GCF_000524355,Veillonella atypica
+/titan/databases/ncbi2/sketches/GCF_000759285/GCF_000759285.fna.gz,GCF_000759285,Veillonella montpellierensis
+/titan/databases/ncbi2/sketches/GCF_001546845/GCF_001546845.fna.gz,GCF_001546845,Veillonella atypica
+/titan/databases/ncbi2/sketches/GCF_001553335/GCF_001553335.fna.gz,GCF_001553335,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_002847925/GCF_002847925.fna.gz,GCF_002847925,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_002959795/GCF_002959795.fna.gz,GCF_002959795,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_003465965/GCF_003465965.fna.gz,GCF_003465965,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_003474825/GCF_003474825.fna.gz,GCF_003474825,Veillonella atypica
+/titan/databases/ncbi2/sketches/GCF_003584215/GCF_003584215.fna.gz,GCF_003584215,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_003602765/GCF_003602765.fna.gz,GCF_003602765,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_003603295/GCF_003603295.fna.gz,GCF_003603295,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_003605975/GCF_003605975.fna.gz,GCF_003605975,Veillonella atypica
+/titan/databases/ncbi2/sketches/GCF_005403165/GCF_005403165.fna.gz,GCF_005403165,Veillonella tobetsuensis
+/titan/databases/ncbi2/sketches/GCF_005403265/GCF_005403265.fna.gz,GCF_005403265,Veillonella tobetsuensis
+/titan/databases/ncbi2/sketches/GCF_009710745/GCF_009710745.fna.gz,GCF_009710745,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_015549975/GCF_015549975.fna.gz,GCF_015549975,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_015554925/GCF_015554925.fna.gz,GCF_015554925,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_016901925/GCF_016901925.fna.gz,GCF_016901925,Veillonella magna
+/titan/databases/ncbi2/sketches/GCF_018783925/GCF_018783925.fna.gz,GCF_018783925,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_019731115/GCF_019731115.fna.gz,GCF_019731115,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_901876955/GCF_901876955.fna.gz,GCF_901876955,Veillonella parvula
+/titan/databases/ncbi2/sketches/GCF_000221605/GCF_000221605.fna.gz,GCF_000221605,Veillonella sp. oral taxon 780 str. F0422
+/titan/databases/ncbi2/sketches/GCF_001553345/GCF_001553345.fna.gz,GCF_001553345,Veillonella sp. DNF00869
+/titan/databases/ncbi2/sketches/GCF_002959755/GCF_002959755.fna.gz,GCF_002959755,Veillonella sp. T11011-6
+/titan/databases/ncbi2/sketches/GCF_003463825/GCF_003463825.fna.gz,GCF_003463825,Veillonella sp. AM51-8BH
+/titan/databases/ncbi2/sketches/GCF_003991995/GCF_003991995.fna.gz,GCF_003991995,Veillonella sp. 3960
+/titan/databases/ncbi2/sketches/GCF_003992005/GCF_003992005.fna.gz,GCF_003992005,Veillonella sp. VA139
+/titan/databases/ncbi2/sketches/GCF_003992015/GCF_003992015.fna.gz,GCF_003992015,Veillonella sp. VA137
+/titan/databases/ncbi2/sketches/GCF_003992055/GCF_003992055.fna.gz,GCF_003992055,Veillonella sp. CHU740
+/titan/databases/ncbi2/sketches/GCF_003992085/GCF_003992085.fna.gz,GCF_003992085,Veillonella sp. CHU732
+/titan/databases/ncbi2/sketches/GCF_003992135/GCF_003992135.fna.gz,GCF_003992135,Veillonella sp. VA142
+/titan/databases/ncbi2/sketches/GCF_003992175/GCF_003992175.fna.gz,GCF_003992175,Veillonella sp. VA141
+/titan/databases/ncbi2/sketches/GCF_003992185/GCF_003992185.fna.gz,GCF_003992185,Veillonella sp. CNR 79/14
+/titan/databases/ncbi2/sketches/GCF_003992195/GCF_003992195.fna.gz,GCF_003992195,Veillonella sp. 3627
+/titan/databases/ncbi2/sketches/GCF_003992235/GCF_003992235.fna.gz,GCF_003992235,Veillonella sp. 3913
+/titan/databases/ncbi2/sketches/GCF_003992255/GCF_003992255.fna.gz,GCF_003992255,Veillonella sp. CHU110
+/titan/databases/ncbi2/sketches/GCF_003992265/GCF_003992265.fna.gz,GCF_003992265,Veillonella sp. CHU594
+/titan/databases/ncbi2/sketches/GCF_003999875/GCF_003999875.fna.gz,GCF_003999875,Veillonella sp. 3310
+/titan/databases/ncbi2/sketches/GCF_010093125/GCF_010093125.fna.gz,GCF_010093125,Veillonella sp. R32
+/titan/databases/ncbi2/sketches/GCF_900637515/GCF_900637515.fna.gz,GCF_900637515,Veillonella dispar
+/titan/databases/ncbi2/sketches/GCF_018406505/GCF_018406505.fna.gz,GCF_018406505,Veillonella nakazawae
+/titan/databases/ncbi2/sketches/GCF_000517785/GCF_000517785.fna.gz,GCF_000517785,Veillonella denticariosi
+/titan/databases/ncbi2/sketches/GCF_001553315/GCF_001553315.fna.gz,GCF_001553315,Veillonella dispar
+/titan/databases/ncbi2/sketches/GCF_002959815/GCF_002959815.fna.gz,GCF_002959815,Veillonella atypica
+/titan/databases/ncbi2/sketches/GCF_002959835/GCF_002959835.fna.gz,GCF_002959835,Veillonella rogosae
+/titan/databases/ncbi2/sketches/GCF_002959875/GCF_002959875.fna.gz,GCF_002959875,Veillonella infantium
+/titan/databases/ncbi2/sketches/GCF_003474105/GCF_003474105.fna.gz,GCF_003474105,Veillonella nakazawae
+/titan/databases/ncbi2/sketches/GCF_004166985/GCF_004166985.fna.gz,GCF_004166985,Veillonella dispar
+/titan/databases/ncbi2/sketches/GCF_015547025/GCF_015547025.fna.gz,GCF_015547025,Veillonella dispar
+/titan/databases/ncbi2/sketches/GCF_901875535/GCF_901875535.fna.gz,GCF_901875535,Veillonella atypica
