@@ -7,6 +7,7 @@ root_dir = os.path.dirname(os.path.abspath(__file__))
 executables = dict(
     pigz = 'gzip',
     gzip = 'gzip',
+    getorf = shutil.which('getorf'),
     transeq = shutil.which('transeq'),
     hmmsearch = shutil.which('hmmsearch'), #'/usr/bin/hmmsearch',
     bindash = shutil.which('bindash'), #'/titan/softwares/bin/bindash', 
