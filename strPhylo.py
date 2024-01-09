@@ -143,7 +143,7 @@ def minimap_align(tmpdir, ref_acc, ref_seqs, db_seqs, items, genomes, min_identi
         for n, s in concatenated_seqs.items() :
             fout.write('>{0}\n{1}\n'.format(n, s))
 
-    subprocess.Popen('{iqtree} -nt 8 -fast -redo -s USCG_align.fas -m GTR+G4 -pre USCG_align --runs 5 --polytomy'.format(
+    subprocess.Popen('{iqtree} -nt 8 -fast -redo -s USCG_align.fas -m GTR -pre USCG_align --runs 5 --polytomy'.format(
         **executables).split(), stdout=subprocess.PIPE, cwd=tmpdir).communicate()
     tre = ete3.Tree(os.path.join(tmpdir, 'USCG_align.treefile'), format=0)
     tre.set_outgroup(tre.get_midpoint_outgroup())

@@ -50,7 +50,6 @@ def get_matches(metadata, uscg_info, genome_ids, read_maps, min_gene_match=3, bl
     coords = np.random.randint(coords.T[0], coords.T[1]+1)
     read_maps.T[3, :] = read_maps.T[1]
     read_maps.T[1, :] = np.vectorize(regions.get)(read_maps.T[1]*max_block + coords)
-    # read_maps.T[3] %= block_size
     read_maps = np.hstack([read_maps, np.zeros([read_maps.shape[0], 1], dtype=np.int32)])
 
     match_results = []
@@ -133,8 +132,8 @@ def get_matches(metadata, uscg_info, genome_ids, read_maps, min_gene_match=3, bl
                 ud = 0.0001+n[5]/n[4] if n[4] else 1.
                 if (m_reads[g] >= np.sum(matched_reads.T[2]<1000) * 0.75) and ((pd/dist <= dist2/pd) or (ud/dist <= dist2/ud)) and np.unique(strict_pos2[strict_pos2.T[0] == g, 1]).size >= min_gene_match :
                     if pd < dist or ud < dist :
-                        match, g, dist, dist2 = g, match, ud, nd
                         new_matches.append(match)
+                        match, g, dist, dist2 = g, match, min(ud, pd), nd
                         continue
                     elif (n[6] >= m_reads[g] * 0.05) or (n[7] >= total_reads[g] * 0.05) :
                         new_matches.append(g)
@@ -212,7 +211,7 @@ def generate_outputs(sam_files, metadata, uscg_info, genome_ids, file_reads, mat
         n_diffs = np.sum(match_reads.T[2])/6.
         references = [genome_ids[m][0] for m in match]
         species = [ metadata[r] for r in references ]
-        species = [species[0]] + list(set(species[1:]) - set(species[0]))
+        species = [species[0]] + list(set(species[1:]) - set([species[0]]))
 
         results[i] = [float(match_reads.shape[0]),
                       float(n_bases),
@@ -249,7 +248,6 @@ def generate_outputs(sam_files, metadata, uscg_info, genome_ids, file_reads, mat
                         refname = p[1][3:]
                         ref_ids = uscg_map.get(refname, {})
                         for ref_id, g in ref_ids.items() :
-                            # p[1] = 'SN:' + genome_ids[g][0]
                             lx = '\t'.join(p)
                             if lx not in lxx :
                                 pout.write(lx)
@@ -260,7 +258,7 @@ def generate_outputs(sam_files, metadata, uscg_info, genome_ids, file_reads, mat
                     p = line.split('\t')
                     if int(p[1]) >= 256 :
                         p[1] = str(int(p[1]) - 256)
-                    if p[2] not in uscg_map :
+                    if p[2] not in uscg_info :
                         continue
                     if p[0] != read_name :
                         read_name, read_id = p[0], read_id+1
@@ -269,12 +267,13 @@ def generate_outputs(sam_files, metadata, uscg_info, genome_ids, file_reads, mat
                         read_grp = read_matches[read_id]
                         if read_grp >= 0 :
                             sout.write('@{0}_{1}\n{2}\n+\n{3}\n'.format(read_grp, p[0], p[9], p[10]))
+                    if p[2] not in uscg_map :
+                        continue
                     read_grp = read_matches[read_id]
                     if read_grp >= 0 :
                         p[0] = '{0}_{1}'.format(read_grp, p[0])
                         for ref_id, g in uscg_map[p[2]].items() :
                             if primary_refs[ref_id] == read_grp :
-                                # p[2] = g
                                 pout.write('\t'.join(p))
             # try :
             #     os.unlink(os.path.join(tmpdir, fname))
@@ -333,8 +332,7 @@ def parse_sam(data) :
     prev, read_id = ['', 0], 0
     read_maps, rmaps = [], []
 
-    p = subprocess.Popen('{pigz} -cd {0}'.format(outfile, **executables).split(), stdout=subprocess.PIPE,
-                         universal_newlines=True)
+    p = subprocess.Popen('{pigz} -cd {0}'.format(outfile, **executables).split(), stdout=subprocess.PIPE, universal_newlines=True)
     for lid, line in enumerate(p.stdout):
         if line.startswith('@'):
             continue
@@ -350,7 +348,6 @@ def parse_sam(data) :
             mlen_s = min(int(matches[0][0]), int(p[3])-1)
             mlen += mlen_s
             p[3] = int(p[3]) - mlen_s
-        # s, e = int(p[3]), int(p[3]) + mlen - 1
         if p[0] == prev[0]:
             diff = prev[1] - score
         else:
@@ -409,10 +406,9 @@ def query_uscg(query, uscg_db, output, metadata, max_dist, pool, min_depth, min_
         read_maps, file_reads = map_to_uscgs(sam_files, uscg_info, output, max_dist, pool)
         if len(read_maps) == 0 :
             return {'profile':[], 'OTU':[]}
-        np.savez_compressed(os.path.join(output, 'uscg.npz'), reads=read_maps, file_reads=file_reads, n_reads=10000000)
+        np.savez_compressed(os.path.join(output, 'uscg.npz'), reads=read_maps, file_reads=file_reads)
     else :
         data = np.load(os.path.join(output, 'uscg.npz'))
-        n_reads = int(data['n_reads'])
         file_reads = data['file_reads']
         if not debug[2] :
             read_maps = data['reads']
@@ -509,4 +505,4 @@ def strProfile(query, dbname, output, max_dist, num_threads, min_depth, min_cons
 
 
 if __name__ == '__main__' :
-    strProfile()
+    main()

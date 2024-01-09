@@ -386,8 +386,11 @@ def explore(nwk, aln, uscg, prefix, bam) :
                 for n, s in o[6].items() :
                     if n.find(ref_acc) > 0 :
                         otu[6][n] = s
-
+        if not otu :
+            continue
         sites = map_qry(aln_fas, otu, sites)
+        if not sites :
+            continue
         sites = parse_bam(bam, ref_acc, sites)
         nodes['__query__'] = np.array([s[2] for s in sites])
         best_model = estimate(nodes, sites, tre)
