@@ -112,16 +112,17 @@ Options:
   --help  Show this message and exit.
 
 Commands:
-  dbase
+  base
   phylo
   profile
+  gene
 
 ~~~~~~~~~~
 
 ~~~~~~~~~~
-$ ../StrTrak dbase --help
+$ StrTrak base --help
 
-Usage: StrTrak dbase [OPTIONS]
+Usage: StrTrak base [OPTIONS]
 
 Options:
   -i, --fna_list TEXT    comma-delimited list of the included fasta files in a
@@ -136,7 +137,7 @@ Options:
 ~~~~~~~~~~
 
 ~~~~~~~~~~
-$ ../StrTrak profile --help
+$ StrTrak profile --help
 
 Usage: StrTrak profile [OPTIONS]
 
@@ -155,8 +156,29 @@ Options:
 
 ~~~~~~~~~~
 
+
 ~~~~~~~~~~
-$ ../StrTrak phylo --help
+$ StrTrak gene --help
+
+Usage: StrTrak gene [OPTIONS]
+
+Options:
+  -q, --query TEXT           fastq file [specify multiple times for multiple
+                             fastq files]  [required]
+  -o, --output TEXT          prefix of the output. [required]  [required]
+  -t, --num_threads INTEGER  number of threads [Default: 16]
+  -m, --max_dist FLOAT       maximum distance of alignment [Default: 0.08]
+  --min_depth INTEGER        minimum number of coverage to call a base.
+                             [Default: 3]
+  --min_consensus FLOAT      minimum proportion of consensus base to call
+                             [Default: 0.8]
+  --help                     Show this message and exit.
+
+~~~~~~~~~~
+
+
+~~~~~~~~~~
+$ StrTrak phylo --help
 
 Usage: StrTrak phylo [OPTIONS] [USCGS]...
 
