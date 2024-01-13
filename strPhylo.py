@@ -124,7 +124,7 @@ def minimap_align(tmpdir, ref_acc, ref_seqs, db_seqs, items, genomes, min_identi
 
     genes = sorted(ref_seqs.keys())
     qryseqs = {}
-    for idx, s in pool.imap_unordered(each_minimap, [ [tmpdir, genome, min_identity, min_presence if idx==0 else 0.6, idx]
+    for idx, s in pool.imap_unordered(each_minimap, [ [tmpdir, genome, min_identity, min_presence if idx==0 else 0.5, idx]
                                       for idx, genome in enumerate(['target', 'from_db']+genomes) ]) :
         for tag, seq in s.items() :
             if idx == 0 and len(seq) >= min_presence * len(genes) :
@@ -162,7 +162,7 @@ def readJson(param) :
         tag = os.path.basename(uscg).rsplit('.', 1)[0]
         data = json.load(open(uscg))['OTU']
         for d in data :
-            if not d[6] :
+            if len(d) < 7 or  not d[6] :
                 continue
             for n, s in d[6].items() :
                 if risky :
